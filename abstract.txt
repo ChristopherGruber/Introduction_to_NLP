@@ -1,0 +1,10 @@
+Introduction to Natural Language Processing
+Chris Gruber
+
+Natural Language Processing is a wide collection of techniques for working with text data.  NLP includes such diverse topics as machine translation, semantic search, speech recognition, and topic modeling.  
+
+Text data is notoriously difficult to work with due to considerations like ambiguity, nuance, and data quality. Nevertheless, NLP is an increasingly important discipline in data science due to its ability to unlock value from unstructured text data.
+
+This talk introduces the fundamentals of working with text and surveys the NLP ecosystem and its many algorithms and applications.  There will also be a demo demonstrating how to build a simple NLP application in Python.
+
+Github repository for this talk: https://github.com/ChristopherGruber/Introduction_to_NLP
